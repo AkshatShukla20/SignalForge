@@ -1,0 +1,41 @@
+# ==========================================
+# 1. Python Virtual Environment & Bytecode
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# 2. PlatformIO & Microcontroller Build Files
+# ==========================================
+.pio/
+.pioenvs/
+.piolibdeps/
+*.elf
+*.bin
+*.hex
+
+# ==========================================
+# 3. Editor & OS Specific Junk
+# ==========================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ==========================================
+# 4. Data Logs & Environment Secrets
+# ==========================================
+data_logs/*.csv
+.env
