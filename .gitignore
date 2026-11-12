@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ==========================================
 # 1. Python Virtual Environment & Bytecode
 # ==========================================
@@ -39,3 +40,37 @@ Desktop.ini
 # ==========================================
 data_logs/*.csv
 .env
+=======
+
+# PlatformIO
+.pio/
+.platformio/
+
+# Python (future dashboard)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# VS Code workspace settings
+.vscode/
+
+# Other IDEs
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+>>>>>>> 9343a049e7e7b3d0bd25ebc38be0a2ef3bb437f4

@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "esp8266-scanner",
+			"path": "esp8266-scanner"
+		},
+		{
+			"name": "esp32-gateway",
+			"path": "esp32-gateway"
+		},
+		{
+			"name": "261111-200734-fm-devkit",
+			"path": "../../../Documents/PlatformIO/Projects/261111-200734-fm-devkit"
+		}
+	],
+	"settings": {}
+}
